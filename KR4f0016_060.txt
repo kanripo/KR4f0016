@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 學餘堂文集
-#+DATE: 2020-03-31 11:38:58.125344
+#+DATE: 2020-03-31 11:38:58.993773
 #+PROPERTY: ID KR4f0016
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 60
 <pb:KR4f0016_WYG_060-1a>¶
 　　欽定四庫全書¶
@@ -159,7 +159,7 @@
 　　夜過石林時陶季氷壑舟次在坐用八齊¶
 ¶
 　　皎月當頭出朋來步屧齊共圍黄菊坐何异碧仙棲文¶
-字已雞肋行藏逐馬蹄憑君話名岳杖䇿好招𢹂(時陶季従¶
+字已雞肋行藏逐馬蹄憑君話名岳杖䇿好招攜(時陶季従¶
 <pb:KR4f0016_WYG_060-6b>¶
 天壽西山回極言其勝)¶
 ¶

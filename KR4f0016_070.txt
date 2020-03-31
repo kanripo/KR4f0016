@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 學餘堂文集
-#+DATE: 2020-03-31 11:38:58.223833
+#+DATE: 2020-03-31 11:38:59.108717
 #+PROPERTY: ID KR4f0016
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 70
 <pb:KR4f0016_WYG_070-1a>¶
 　　欽定四庫全書¶
@@ -364,7 +364,7 @@
 ¶
 　　相違信宿悵離羣忽漫經年袂永分　禁苑薄逰曾並馬¶
 夜臺誰許共論文魂傷燈市春宵語愁黯江天日暮雲¶
-闕下鵷班接坐處幾人款&KR0323;復如君(辛酉上元招予出遊忽把手曰恐此¶
+闕下鵷班接坐處幾人款𣢾復如君(辛酉上元招予出遊忽把手曰恐此¶
 樂不再)¶
 ¶
 　　二¶

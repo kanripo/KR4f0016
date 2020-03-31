@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 學餘堂文集
-#+DATE: 2020-03-31 11:38:58.249421
+#+DATE: 2020-03-31 11:38:59.136354
 #+PROPERTY: ID KR4f0016
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 73
 <pb:KR4f0016_WYG_073-1a>¶
 　　欽定四庫全書¶
@@ -71,7 +71,7 @@
 懽動　慈顔留汗漫坐沾香霧弄潺湲寢門數問勤¶
 ¶
 　　天語珍饌頻移接御筵預敇行厨齎玉粒肯煩屬邑費¶
-金錢洗頭&KR0160;嶽盆何在取石銀河興𦕈然珠獻鮫人紛¶
+金錢洗頭華嶽盆何在取石銀河興𦕈然珠獻鮫人紛¶
 上下旌麾玉女暗聨翩祓除有喜坤維奠奉養無方孝¶
 <pb:KR4f0016_WYG_073-4a>¶
 治傳不數驪山汙粉澤羞稱汝水漫流連朱砂礬石誰¶

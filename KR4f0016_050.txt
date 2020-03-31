@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 學餘堂文集
-#+DATE: 2020-03-31 11:38:58.011939
+#+DATE: 2020-03-31 11:38:58.869210
 #+PROPERTY: ID KR4f0016
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 50
 <pb:KR4f0016_WYG_050-1a>¶
 　　欽定四庫全書¶
@@ -29,7 +29,7 @@
 　　桐塢短歌詶贈程非二¶
 ¶
 　　張拳欲搤南山虎袖手低眉卧桐塢海水怒翻桐摧殘¶
-鳳吟𤠔嘯聲辛酸白榆彦㑹須臾歇(新安舊有白榆社皆名宿)霜天¶
+鳳吟猿嘯聲辛酸白榆彦㑹須臾歇(新安舊有白榆社皆名宿)霜天¶
 <pb:KR4f0016_WYG_050-2a>¶
 雲散留寒月籜冠避世棲牆東當年玉樹今山翁黄山¶
 數峯夜驚走索之乃在君懐袖日日公榮酒滿壺眼中¶

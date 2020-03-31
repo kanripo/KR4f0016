@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 學餘堂文集
-#+DATE: 2020-03-31 11:38:57.781865
+#+DATE: 2020-03-31 11:38:58.631415
 #+PROPERTY: ID KR4f0016
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 26
 <pb:KR4f0016_WYG_026-1a>¶
 　　欽定四庫全書¶
@@ -17,7 +17,7 @@
 　　蕭江集小引¶
 ¶
 　　蕭江集者南州李太虛先生之作也稱蕭江者紀游也¶
-先生既遣家𠆸若不能忘情者駕言出遊以寫憂也章¶
+先生既遣家伎若不能忘情者駕言出遊以寫憂也章¶
 門都㑹苦應酬而蕭江簡僻如在窮山又有其親舊楊¶
 <pb:KR4f0016_WYG_026-1b>¶
 子為主人故來遊且淹也愛此江山謂不讓西湖虎丘¶

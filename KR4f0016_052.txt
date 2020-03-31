@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 學餘堂文集
-#+DATE: 2020-03-31 11:38:58.033511
+#+DATE: 2020-03-31 11:38:58.888644
 #+PROPERTY: ID KR4f0016
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 52
 <pb:KR4f0016_WYG_052-1a>¶
 　　欽定四庫全書¶
@@ -499,7 +499,7 @@
 ¶
 　　二¶
 ¶
-　　途雨行無次孤村烽火餘山厨連馬&KR0491;官舍奪僧居樹¶
+　　途雨行無次孤村烽火餘山厨連馬櫪官舍奪僧居樹¶
 古偏供爨人稀廢趂墟東西看麥壠寡婦把犁鋤¶
 ¶
 　　昭江别周汲菴副使¶

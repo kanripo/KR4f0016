@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 學餘堂文集
-#+DATE: 2020-03-31 11:38:58.301928
+#+DATE: 2020-03-31 11:38:59.190179
 #+PROPERTY: ID KR4f0016
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 79
 <pb:KR4f0016_WYG_079-1a>¶
 　　欽定四庫全書¶
@@ -164,7 +164,7 @@
 笑曰拙於書而勞於硯不亦惑與人生當著㡬兩屐¶
 於硯亦云親交過存将去都盡既十許年發敝簏得¶
 此稿追次而録之以志余所得於端江者若此貯之¶
-巾箱即&KR0197;為石友可也¶
+巾箱即號為石友可也¶
 ¶
 <pb:KR4f0016_WYG_079-8a>¶
 　　甲辰正月八日愚山居士施閏章漫記于雙溪之寄¶

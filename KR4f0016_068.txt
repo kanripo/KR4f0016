@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 學餘堂文集
-#+DATE: 2020-03-31 11:38:58.205772
+#+DATE: 2020-03-31 11:38:59.088363
 #+PROPERTY: ID KR4f0016
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 68
 <pb:KR4f0016_WYG_068-1a>¶
 　　欽定四庫全書¶
@@ -472,7 +472,7 @@
 ¶
 　　金眀寺放生池¶
 ¶
-　　灌木疎篁白晝隂重聞澤國出香林&KR0394;鐘聲徹魚龍醒¶
+　　灌木疎篁白晝隂重聞澤國出香林𣑽鐘聲徹魚龍醒¶
 漁艇機忘江海深人靜惠莊知極樂地幽支許數相尋¶
 <pb:KR4f0016_WYG_068-19a>¶
 眼前兵氣銷難盡解網誰能共此心¶

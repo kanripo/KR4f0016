@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 學餘堂文集
-#+DATE: 2020-03-31 11:38:58.260429
+#+DATE: 2020-03-31 11:38:59.147953
 #+PROPERTY: ID KR4f0016
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 75
 <pb:KR4f0016_WYG_075-1a>¶
 　　欽定四庫全書¶
@@ -258,7 +258,7 @@
 　　白玉搔頭紫玉簫香車細馬木蘭橈但留歌舞長如舊¶
 拚取黄金作(去聲)六橋¶
 ¶
-　　過新廊感懷方顧二宅(方謫𨖚陽顧已殁二年)¶
+　　過新廊感懷方顧二宅(方謫遼陽顧已殁二年)¶
 ¶
 　　不改秦淮舊草堂含情駐馬涙沾裳故人生死皆離别¶
 惟有烏啼送夕陽¶

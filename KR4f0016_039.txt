@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 學餘堂文集
-#+DATE: 2020-03-31 11:38:57.894311
+#+DATE: 2020-03-31 11:38:58.760858
 #+PROPERTY: ID KR4f0016
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 39
 <pb:KR4f0016_WYG_039-1a>¶
 　　欽定四庫全書¶
@@ -33,7 +33,7 @@
 　　携酒酌張菊水(張坐事奪官)¶
 ¶
 <pb:KR4f0016_WYG_039-2a>¶
-　　窮交纒坎𡒄卑位含瑕垢歎息申椒芳一刈同稊莠往¶
+　　窮交纒坎壈卑位含瑕垢歎息申椒芳一刈同稊莠往¶
 事洵難追袖短露两肘壯夫能任逹解顔懽舊友急雨¶
 過髙城返照明西牖通塞誰當知平生一尊酒¶
 ¶

@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 學餘堂文集
-#+DATE: 2020-03-31 11:38:58.307348
+#+DATE: 2020-03-31 11:38:59.195595
 #+PROPERTY: ID KR4f0016
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 80
 <pb:KR4f0016_WYG_080-1a>¶
 　　欽定四庫全書¶
@@ -179,7 +179,7 @@
 ¶
 　　愼塗抹　部頒條例有云落巻須抹出不中緣由所以¶
 服舉子之心且防考官不遍閲也倘或開巻時稍不¶
-當意輙加批抹其中&KR0137;是佳巻業已不可救矣夫薦¶
+當意輙加批抹其中或是佳巻業已不可救矣夫薦¶
 巻止用句圏則落巻亦毋多抹以一眚弃全瑜深可¶
 痛惜此後遇有才情稍溢或古峭淡逺初閲不聳觀¶
 <pb:KR4f0016_WYG_080-10a>¶
